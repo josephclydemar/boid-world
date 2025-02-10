@@ -1,4 +1,4 @@
-# BoidWorld
+# Boid World
 Visualizes the collective movement of agents (boids) following simple rules to mimic natural flocking behavior. Each boid follows three rules: separation (avoiding crowding neighbors), alignment (matching velocity with nearby boids), and cohesion (steering towards the group’s center). The simulation dynamically adjusts to changing environments, creating emergent, lifelike swarm behavior.
 
 <br>
