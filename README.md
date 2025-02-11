@@ -18,7 +18,7 @@ python ./src/main.py
 <br>
 
 ---
-### Summoner Controls
+### Player Controls
 - Press `w` key to move forward.     
 - Press `d` key to steer clockwise.     
 - Press `a` key to steer counter-clockwise.
