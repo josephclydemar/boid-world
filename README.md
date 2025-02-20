@@ -39,11 +39,11 @@ python ./src/main.py
 
 ### Block Orientation
 ```
-      1e
- 0c _______ 1c
+       e1
+ c0 _______ c1
    |       |
-0e |       | 2e
+e0 |       | e2
    |_______|
- 3c   3e    2c
+ c3    e3   c2
 
 ```
